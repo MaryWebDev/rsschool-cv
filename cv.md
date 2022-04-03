@@ -10,7 +10,7 @@
 
 Gubkin Russian State University of oil and gas
 
-### Key skills:
+### Key skills
 - HTML
 - CSS
 - JavaScript
@@ -26,7 +26,7 @@ Gubkin Russian State University of oil and gas
     }
 
 
-### Personal qualities:
-- High analytical and presentation skills;
-- Ability to meet hard deadlines;
-- Strong communication skills;
+### Personal qualities
+- High analytical and presentation skills
+- Ability to meet hard deadlines
+- Strong communication skills
