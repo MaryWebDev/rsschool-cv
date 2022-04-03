@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://MaryWebDev.github.io/rsschool-cv/cv
+https://MaryWebDev.github.io/rsschool-cv/
