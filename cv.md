@@ -4,7 +4,7 @@
   **Date of birth:** December 4, 1992  
   **Location:** Moscow  
   **Tel.:** +7 (903) 594 0494  
-  **E-mail:** ivamarnic@ya.ru
+  **E-mail:** ivamarnic@yandex.ru
 
 ### Education
 
